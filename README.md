@@ -41,7 +41,7 @@ El proyecto sigue la arquitectura modular de NestJS:
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/leeeslie/task-manager-api.git
+git clone https://github.com/lessslie/task-manager-api.git
 cd task-manager-api
 
 # Instalar dependencias
@@ -65,7 +65,7 @@ npm run start:prod
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/leeeslie/task-manager-api.git
+git clone https://github.com/lessslie/task-manager-api.git
 cd task-manager-api
 
 # Configuración
@@ -102,4 +102,3 @@ La documentación completa está disponible en Swagger UI: `/api/docs`
 ## Contribución
 
 - Las contribuciones son bienvenidas. Para cambios importantes, por favor abra primero un issue para discutir lo que le gustaría cambiar.
-  
